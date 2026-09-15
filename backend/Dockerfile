@@ -16,6 +16,7 @@ COPY ml_model.py .
 COPY train_ml.py .
 COPY tfidf_model.py .
 COPY train_tfidf.py .
+COPY model/ /app/model/
 
 
 
