@@ -94,7 +94,7 @@ CORS(
         r"/api/*": {
             "origins": [
                 "http://localhost:5173",
-                "https://swipe-b5d1g5z3m-parthivbhats-projects.vercel.app"
+                "https://swipe-qfl0g6d3h-parthivbhats-projects.vercel.app"
             ]
         }
     }
